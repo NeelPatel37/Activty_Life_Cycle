@@ -2,17 +2,17 @@
 
 <img src="https://developer.android.com/images/activity_lifecycle.png" alt="Activity Life Cycle Diagram" width="600"/>
 
-<h2>onCreate()</h2>
+<h3>onCreate()</h3>
 
-<h2>onStart()</h2>
+<h3>onStart()</h3>
 
-<h2>onResume()</h2>
+<h3>onResume()</h3>
 
-<h2>onPause()</h2>
+<h3>onPause()</h3>
 
-<h2>onStop()</h2>
+<h3>onStop()</h3>
 
-<h2>onDestroy()</h2>
+<h3>onDestroy()</h3>
 
 <p>When you create Activity A, the <code>onStart()</code>, <code>onCreate()</code>, and <code>onResume()</code> methods are called.</p>
 
